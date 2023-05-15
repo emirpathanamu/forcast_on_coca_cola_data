@@ -1,5 +1,7 @@
 # forcast_on_coca_cola_data
 In this problem i explored different forcasting algorithm
+
+
 problem Statement
 
 The objective of this project is to build a forecasting model to predict the sales of Coca-Cola. The dataset contains historical values of the sales, recorded quarterly over a certain period. The aim is to use various forecasting algorithms, such as ARIMA, SARIMA, LSTM, etc., to predict the future values of the sales.
